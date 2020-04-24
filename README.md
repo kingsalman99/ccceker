@@ -8,7 +8,7 @@ Android use TERMUX<br>
   
   $ pkg install git<br>
   $ pkg install php<br>
-  $ git clone https://github.com/zeldriss/CreditCardChecker/git<br>
+  $ git clone https://github.com/zeldriss/CreditCardChecker.git<br>
   $ cd CreditCardChecker<br>
 
 # Run
